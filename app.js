@@ -33,18 +33,34 @@ wppconnect
   .catch((error) => console.log(error));
 
 
-
   function start(client) {
     client.onMessage((message) => {
-      if (message.body === 'Hello') {
+      if (message.isGroupMsg) {
+        console.log(`Mensagem do grupo ${message.chat.name}: ${message.body}`);
+        return; // Ignora mensagens de grupo
+      }
+  
+      if (message.body.toLocaleLowerCase === 'oi') {
         client
           .sendText(message.from, 'Olá, como posso te ajudar?')
           .then((result) => {
-            console.log('Result: ', result); //return object success
+            console.log('Resultado: ', result); // Retorno de sucesso
           })
-          .catch((erro) => {
-            console.error('Error when sending: ', erro); //return object error
+          .catch((error) => {
+            console.error('Erro ao enviar: ', error); // Retorno de erro
+          });
+      }
+
+      if (message.body.toLocaleLowerCase()) {
+        client
+          .sendText(message.from, 'Olá, digite uma das opções a baixo (mensagem de teste do bot)')
+          .then((result) => {
+            console.log('Resultado: ', result); // Retorno de sucesso
+          })
+          .catch((error) => {
+            console.error('Erro ao enviar: ', error); // Retorno de erro
           });
       }
     });
   }
+  
