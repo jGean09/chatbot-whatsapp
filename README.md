@@ -4,6 +4,8 @@
 
 Este projeto é um chatbot para WhatsApp que utiliza a biblioteca [WPPConnect](https://github.com/wppconnect-team/wppconnect) para automatizar interações via WhatsApp Web. O bot pode responder a mensagens, ser ativado e desativado, e lembrar quais contatos já foram notificados.
 
+** Estou apenas testando as ferramentas, não aprofundei o conhecimentos nessa area
+
 ## Ferramentas Utilizadas
 
 - **Node.js**: Ambiente de execução para JavaScript, utilizado para rodar o código do bot.
@@ -15,6 +17,7 @@ Este projeto é um chatbot para WhatsApp que utiliza a biblioteca [WPPConnect](h
 - **Ativar/Desativar o Bot**: Envie "ativar bot" para ativar ou "desativar bot" para desativar o bot.
 - **Respostas Automáticas**: O bot responde "Oi" apenas uma vez para cada contato e envia uma mensagem padrão para outras interações.
 - **Ignorar Mensagens de Grupo**: O bot não responde a mensagens enviadas em grupos.
+
 
 ## Como Executar
 
