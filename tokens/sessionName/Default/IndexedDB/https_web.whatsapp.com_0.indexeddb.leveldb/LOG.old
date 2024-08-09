@@ -1,4 +1,25 @@
-2024/08/03-19:41:02.613 3b34 Reusing MANIFEST C:\Users\joseg\OneDrive\Área de Trabalho\Projeto whatsapp\tokens\sessionName\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/08/03-19:41:02.613 3b34 Recovering log #380
-2024/08/03-19:41:02.623 3b34 Reusing old log C:\Users\joseg\OneDrive\Área de Trabalho\Projeto whatsapp\tokens\sessionName\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000380.log 
-2024/08/03-19:41:03.730 2cc4 Manual compaction at level-0 from '\x004\x00\x00\x00' @ 72057594037927935 : 1 .. '\x005\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/08/04-00:00:16.579 1ffc Reusing MANIFEST c:\Users\joseg\OneDrive\Área de Trabalho\Projeto whatsapp\tokens\sessionName\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/08/04-00:00:16.579 1ffc Recovering log #440
+2024/08/04-00:00:16.673 1ffc Reusing old log c:\Users\joseg\OneDrive\Área de Trabalho\Projeto whatsapp\tokens\sessionName\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000440.log 
+2024/08/04-00:00:18.109 1ffc Level-0 table #451: started
+2024/08/04-00:00:18.228 1ffc Level-0 table #451: 877102 bytes OK
+2024/08/04-00:00:18.229 1ffc Delete type=0 #440
+2024/08/04-00:00:18.230 1ffc Manual compaction at level-0 from '\x007\x00\x00\x00' @ 72057594037927935 : 1 .. '\x008\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/08/04-00:00:20.071 388c Compacting 1@1 + 7@2 files
+2024/08/04-00:00:20.407 388c Generated table #452@1: 69239 keys, 2244069 bytes
+2024/08/04-00:00:20.681 388c Generated table #453@1: 50962 keys, 2212955 bytes
+2024/08/04-00:00:20.781 388c Generated table #454@1: 21251 keys, 2185231 bytes
+2024/08/04-00:00:20.890 388c Generated table #455@1: 7224 keys, 2167958 bytes
+2024/08/04-00:00:21.016 388c Generated table #456@1: 32827 keys, 2238025 bytes
+2024/08/04-00:00:21.092 388c Generated table #457@1: 36756 keys, 2179068 bytes
+2024/08/04-00:00:21.132 388c Generated table #458@1: 37172 keys, 805856 bytes
+2024/08/04-00:00:21.132 388c Compacted 1@1 + 7@2 files => 14033162 bytes
+2024/08/04-00:00:21.133 388c compacted to: files[ 0 0 7 0 0 0 0 ]
+2024/08/04-00:00:21.133 388c Delete type=2 #442
+2024/08/04-00:00:21.133 388c Delete type=2 #443
+2024/08/04-00:00:21.133 388c Delete type=2 #444
+2024/08/04-00:00:21.133 388c Delete type=2 #445
+2024/08/04-00:00:21.133 388c Delete type=2 #446
+2024/08/04-00:00:21.134 388c Delete type=2 #447
+2024/08/04-00:00:21.134 388c Delete type=2 #448
+2024/08/04-00:00:21.134 388c Delete type=2 #451

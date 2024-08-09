@@ -1,121 +1,25 @@
-2024/08/03-23:45:27.764 1180 Reusing MANIFEST C:\Users\joseg\OneDrive\Área de Trabalho\Projeto whatsapp\tokens\sessionName\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/08/03-23:45:27.765 1180 Recovering log #380
-2024/08/03-23:45:27.839 1180 Reusing old log C:\Users\joseg\OneDrive\Área de Trabalho\Projeto whatsapp\tokens\sessionName\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000380.log 
-2024/08/03-23:45:28.863 aec Level-0 table #390: started
-2024/08/03-23:45:29.021 aec Level-0 table #390: 303898 bytes OK
-2024/08/03-23:45:29.034 aec Delete type=0 #380
-2024/08/03-23:45:29.037 aec Manual compaction at level-0 from '\x005\x00\x00\x00' @ 72057594037927935 : 1 .. '\x006\x00\x00\x00' @ 0 : 0; will stop at (end)
-2024/08/03-23:45:32.134 aec Compacting 1@1 + 6@2 files
-2024/08/03-23:45:32.454 aec Generated table #391@1: 63441 keys, 2237221 bytes
-2024/08/03-23:45:32.798 aec Generated table #392@1: 51715 keys, 2216556 bytes
-2024/08/03-23:45:32.901 aec Generated table #393@1: 14598 keys, 2177623 bytes
-2024/08/03-23:45:33.062 aec Generated table #394@1: 17030 keys, 2232131 bytes
-2024/08/03-23:45:33.186 aec Generated table #395@1: 30998 keys, 2184879 bytes
-2024/08/03-23:45:33.297 aec Generated table #396@1: 57668 keys, 1223265 bytes
-2024/08/03-23:45:33.297 aec Compacted 1@1 + 6@2 files => 12271675 bytes
-2024/08/03-23:45:33.298 aec compacted to: files[ 0 0 6 0 0 0 0 ]
-2024/08/03-23:45:33.299 aec Delete type=2 #382
-2024/08/03-23:45:33.299 aec Delete type=2 #383
-2024/08/03-23:45:33.299 aec Delete type=2 #384
-2024/08/03-23:45:33.299 aec Delete type=2 #385
-2024/08/03-23:45:33.299 aec Delete type=2 #386
-2024/08/03-23:45:33.299 aec Delete type=2 #387
-2024/08/03-23:45:33.299 aec Delete type=2 #390
-2024/08/03-23:45:39.277 aec Level-0 table #398: started
-2024/08/03-23:45:39.366 aec Level-0 table #398: 1040058 bytes OK
-2024/08/03-23:45:39.368 aec Delete type=0 #389
-2024/08/03-23:45:39.373 aec Compacting 1@1 + 5@2 files
-2024/08/03-23:45:39.569 aec Generated table #399@1: 65880 keys, 2240160 bytes
-2024/08/03-23:45:39.764 aec Generated table #400@1: 50902 keys, 2214543 bytes
-2024/08/03-23:45:39.892 aec Generated table #401@1: 16140 keys, 2182025 bytes
-2024/08/03-23:45:40.121 aec Generated table #402@1: 16289 keys, 2224038 bytes
-2024/08/03-23:45:40.289 aec Generated table #403@1: 28218 keys, 2183655 bytes
-2024/08/03-23:45:40.302 aec Generated table #404@1: 4710 keys, 157040 bytes
-2024/08/03-23:45:40.302 aec Compacted 1@1 + 5@2 files => 11201461 bytes
-2024/08/03-23:45:40.303 aec compacted to: files[ 0 0 7 0 0 0 0 ]
-2024/08/03-23:45:40.304 aec Delete type=2 #391
-2024/08/03-23:45:40.304 aec Delete type=2 #392
-2024/08/03-23:45:40.304 aec Delete type=2 #393
-2024/08/03-23:45:40.305 aec Delete type=2 #394
-2024/08/03-23:45:40.305 aec Delete type=2 #395
-2024/08/03-23:45:40.305 aec Delete type=2 #398
-2024/08/03-23:45:41.830 aec Level-0 table #406: started
-2024/08/03-23:45:41.867 aec Level-0 table #406: 1726989 bytes OK
-2024/08/03-23:45:41.868 aec Delete type=0 #397
-2024/08/03-23:45:41.872 aec Compacting 1@1 + 5@2 files
-2024/08/03-23:45:41.998 aec Generated table #407@1: 68016 keys, 2241296 bytes
-2024/08/03-23:45:42.136 aec Generated table #408@1: 50157 keys, 2212892 bytes
-2024/08/03-23:45:42.228 aec Generated table #409@1: 18439 keys, 2181678 bytes
-2024/08/03-23:45:42.311 aec Generated table #410@1: 9387 keys, 2181512 bytes
-2024/08/03-23:45:42.433 aec Generated table #411@1: 32540 keys, 2236704 bytes
-2024/08/03-23:45:42.468 aec Generated table #412@1: 4509 keys, 1106434 bytes
-2024/08/03-23:45:42.468 aec Compacted 1@1 + 5@2 files => 12160516 bytes
-2024/08/03-23:45:42.469 aec compacted to: files[ 0 0 8 0 0 0 0 ]
-2024/08/03-23:45:43.712 32a8 Level-0 table #414: started
-2024/08/03-23:45:43.754 32a8 Level-0 table #414: 1560631 bytes OK
-2024/08/03-23:45:43.755 32a8 Delete type=2 #399
-2024/08/03-23:45:43.756 32a8 Delete type=2 #400
-2024/08/03-23:45:43.756 32a8 Delete type=2 #401
-2024/08/03-23:45:43.756 32a8 Delete type=2 #402
-2024/08/03-23:45:43.756 32a8 Delete type=2 #403
-2024/08/03-23:45:43.756 32a8 Delete type=0 #405
-2024/08/03-23:45:43.756 32a8 Delete type=2 #406
-2024/08/03-23:45:43.893 32a8 Compacting 1@1 + 6@2 files
-2024/08/03-23:45:44.009 32a8 Generated table #415@1: 61474 keys, 2232715 bytes
-2024/08/03-23:45:44.154 32a8 Generated table #416@1: 48017 keys, 2206907 bytes
-2024/08/03-23:45:44.420 32a8 Generated table #417@1: 28171 keys, 2194061 bytes
-2024/08/03-23:45:44.535 32a8 Generated table #418@1: 4983 keys, 2160073 bytes
-2024/08/03-23:45:44.756 32a8 Generated table #419@1: 29915 keys, 2241020 bytes
-2024/08/03-23:45:44.851 32a8 Generated table #420@1: 12740 keys, 1634761 bytes
-2024/08/03-23:45:44.851 32a8 Compacted 1@1 + 6@2 files => 12669537 bytes
-2024/08/03-23:45:44.853 32a8 compacted to: files[ 0 0 8 0 0 0 0 ]
-2024/08/03-23:45:47.923 aec Level-0 table #422: started
-2024/08/03-23:45:47.945 aec Level-0 table #422: 918361 bytes OK
-2024/08/03-23:45:47.947 aec Delete type=2 #407
-2024/08/03-23:45:47.947 aec Delete type=2 #408
-2024/08/03-23:45:47.947 aec Delete type=2 #409
-2024/08/03-23:45:47.948 aec Delete type=2 #410
-2024/08/03-23:45:47.948 aec Delete type=2 #411
-2024/08/03-23:45:47.948 aec Delete type=2 #412
-2024/08/03-23:45:47.948 aec Delete type=0 #413
-2024/08/03-23:45:47.948 aec Delete type=2 #414
-2024/08/03-23:45:47.960 aec Compacting 1@1 + 8@2 files
-2024/08/03-23:45:48.059 aec Generated table #423@1: 67637 keys, 2242944 bytes
-2024/08/03-23:45:48.181 aec Generated table #424@1: 50888 keys, 2212535 bytes
-2024/08/03-23:45:48.260 aec Generated table #425@1: 20674 keys, 2184692 bytes
-2024/08/03-23:45:48.329 aec Generated table #426@1: 7786 keys, 2171647 bytes
-2024/08/03-23:45:48.431 aec Generated table #427@1: 32900 keys, 2235138 bytes
-2024/08/03-23:45:48.501 aec Generated table #428@1: 41528 keys, 2183342 bytes
-2024/08/03-23:45:48.536 aec Generated table #429@1: 28713 keys, 621389 bytes
-2024/08/03-23:45:48.536 aec Compacted 1@1 + 8@2 files => 13851687 bytes
-2024/08/03-23:45:48.537 aec compacted to: files[ 0 0 7 0 0 0 0 ]
-2024/08/03-23:45:48.537 aec Delete type=2 #396
-2024/08/03-23:45:48.537 aec Delete type=2 #404
-2024/08/03-23:45:48.537 aec Delete type=2 #415
-2024/08/03-23:45:48.538 aec Delete type=2 #416
-2024/08/03-23:45:48.538 aec Delete type=2 #417
-2024/08/03-23:45:48.538 aec Delete type=2 #418
-2024/08/03-23:45:48.538 aec Delete type=2 #419
-2024/08/03-23:45:48.538 aec Delete type=2 #420
-2024/08/03-23:45:48.538 aec Delete type=2 #422
-2024/08/03-23:47:06.114 aec Level-0 table #431: started
-2024/08/03-23:47:06.173 aec Level-0 table #431: 1108793 bytes OK
-2024/08/03-23:47:06.174 aec Delete type=0 #421
-2024/08/03-23:47:10.593 1180 Compacting 1@1 + 7@2 files
-2024/08/03-23:47:10.705 1180 Generated table #432@1: 69682 keys, 2243977 bytes
-2024/08/03-23:47:10.784 1180 Generated table #433@1: 49703 keys, 2211497 bytes
-2024/08/03-23:47:10.838 1180 Generated table #434@1: 19664 keys, 2182320 bytes
-2024/08/03-23:47:10.880 1180 Generated table #435@1: 8054 keys, 2172906 bytes
-2024/08/03-23:47:10.969 1180 Generated table #436@1: 32712 keys, 2235464 bytes
-2024/08/03-23:47:11.031 1180 Generated table #437@1: 41333 keys, 2179966 bytes
-2024/08/03-23:47:11.066 1180 Generated table #438@1: 31032 keys, 671734 bytes
-2024/08/03-23:47:11.066 1180 Compacted 1@1 + 7@2 files => 13897864 bytes
-2024/08/03-23:47:11.066 1180 compacted to: files[ 0 0 7 0 0 0 0 ]
-2024/08/03-23:47:11.067 1180 Delete type=2 #423
-2024/08/03-23:47:11.067 1180 Delete type=2 #424
-2024/08/03-23:47:11.067 1180 Delete type=2 #425
-2024/08/03-23:47:11.067 1180 Delete type=2 #426
-2024/08/03-23:47:11.067 1180 Delete type=2 #427
-2024/08/03-23:47:11.067 1180 Delete type=2 #428
-2024/08/03-23:47:11.067 1180 Delete type=2 #429
-2024/08/03-23:47:11.067 1180 Delete type=2 #431
+2024/08/04-00:10:28.724 1774 Reusing MANIFEST c:\Users\joseg\OneDrive\Área de Trabalho\Projeto whatsapp\tokens\sessionName\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/08/04-00:10:28.724 1774 Recovering log #450
+2024/08/04-00:10:29.006 1774 Reusing old log c:\Users\joseg\OneDrive\Área de Trabalho\Projeto whatsapp\tokens\sessionName\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000450.log 
+2024/08/04-00:10:29.805 262c Level-0 table #461: started
+2024/08/04-00:10:29.881 262c Level-0 table #461: 1180479 bytes OK
+2024/08/04-00:10:29.882 262c Delete type=0 #450
+2024/08/04-00:10:29.887 262c Manual compaction at level-0 from '\x008\x00\x00\x00' @ 72057594037927935 : 1 .. '\x009\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/08/04-00:10:32.902 1774 Compacting 1@1 + 7@2 files
+2024/08/04-00:10:33.100 1774 Generated table #462@1: 70359 keys, 2245643 bytes
+2024/08/04-00:10:33.269 1774 Generated table #463@1: 50556 keys, 2211492 bytes
+2024/08/04-00:10:33.404 1774 Generated table #464@1: 23570 keys, 2187278 bytes
+2024/08/04-00:10:33.475 1774 Generated table #465@1: 6305 keys, 2163169 bytes
+2024/08/04-00:10:33.627 1774 Generated table #466@1: 30614 keys, 2239607 bytes
+2024/08/04-00:10:33.752 1774 Generated table #467@1: 34440 keys, 2175211 bytes
+2024/08/04-00:10:33.841 1774 Generated table #468@1: 43280 keys, 938023 bytes
+2024/08/04-00:10:33.841 1774 Compacted 1@1 + 7@2 files => 14160423 bytes
+2024/08/04-00:10:33.842 1774 compacted to: files[ 0 0 7 0 0 0 0 ]
+2024/08/04-00:10:33.844 1774 Delete type=2 #452
+2024/08/04-00:10:33.845 1774 Delete type=2 #453
+2024/08/04-00:10:33.845 1774 Delete type=2 #454
+2024/08/04-00:10:33.845 1774 Delete type=2 #455
+2024/08/04-00:10:33.845 1774 Delete type=2 #456
+2024/08/04-00:10:33.846 1774 Delete type=2 #457
+2024/08/04-00:10:33.846 1774 Delete type=2 #458
+2024/08/04-00:10:33.846 1774 Delete type=2 #461
