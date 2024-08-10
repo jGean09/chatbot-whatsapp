@@ -7,7 +7,7 @@ Este projeto é um chatbot para WhatsApp que utiliza a biblioteca [WPPConnect](h
 **Estou apenas testando as ferramentas e ainda não aprofundei meus conhecimentos nesta área.**
 
 
-## Ferramentas Utilizadas
+## 💻Ferramentas Utilizadas
 
 - **Node.js**: Ambiente de execução para JavaScript, utilizado para rodar o código do bot.
 - **[WPPConnect](https://github.com/wppconnect-team/wppconnect)**: Biblioteca que permite a automação de interações com o WhatsApp via Web. É usada para criar sessões, enviar e receber mensagens, e gerenciar o fluxo de trabalho do bot.
